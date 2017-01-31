@@ -1,0 +1,8 @@
+C:\Users\user\AppData\Local\Temporary Projects\laba4\bin\Release\laba4.exe
+C:\Users\user\AppData\Local\Temporary Projects\laba4\bin\Release\laba4.pdb
+C:\Users\user\AppData\Local\Temporary Projects\laba4\obj\x86\Release\laba4.exe
+C:\Users\user\AppData\Local\Temporary Projects\laba4\obj\x86\Release\laba4.pdb
+C:\Users\user\documents\visual studio 2010\Projects\laba4\laba4\obj\x86\Release\laba4.exe
+C:\Users\user\documents\visual studio 2010\Projects\laba4\laba4\obj\x86\Release\laba4.pdb
+C:\Users\user\documents\visual studio 2010\Projects\laba4\laba4\bin\Release\laba4.exe
+C:\Users\user\documents\visual studio 2010\Projects\laba4\laba4\bin\Release\laba4.pdb
